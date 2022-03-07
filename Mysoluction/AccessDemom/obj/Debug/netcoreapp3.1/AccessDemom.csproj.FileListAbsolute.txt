@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\bin\Debug\netcoreapp3.1\AccessDemom.exe
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\bin\Debug\netcoreapp3.1\AccessDemom.deps.json
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\bin\Debug\netcoreapp3.1\AccessDemom.runtimeconfig.json
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\bin\Debug\netcoreapp3.1\AccessDemom.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\bin\Debug\netcoreapp3.1\AccessDemom.dll
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\bin\Debug\netcoreapp3.1\AccessDemom.pdb
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.dll
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.pdb
+C:\Users\jacob\source\repos\Mysoluction\AccessDemom\obj\Debug\netcoreapp3.1\AccessDemom.genruntimeconfig.cache
